@@ -21,11 +21,11 @@ cache:
 python:
   - "3.6"
 
-#branches:
-#  only:
-#    - master
-#    - develop
-#    - experimental
+branches:
+  only:
+    - master
+    - develop
+    - experimental
 
 addons:
   apt:
